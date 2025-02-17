@@ -1,3 +1,4 @@
+document.body.style.zoom = "75%";
 document.addEventListener("DOMContentLoaded", function () {
     var typed = new Typed("#typing", {
         strings: ["Full Stack Developer", "UI/UX Designer", "Programmer"],
