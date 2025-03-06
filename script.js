@@ -1,7 +1,7 @@
 document.body.style.zoom = "75%";
 document.addEventListener("DOMContentLoaded", function () {
     var typed = new Typed("#typing", {
-        strings: ["Full Stack Developer", "UI/UX Designer", "Programmer"],
+        strings: ["Front-End Developer", "UI/UX Designer", "VLSI Design Engineer"],
         typeSpeed: 100,
         backSpeed: 50,
         backDelay: 1000,
