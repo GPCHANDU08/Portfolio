@@ -40,13 +40,13 @@ let cardContents = [
     <br>
     <em>Bachelor of Technology - BTech, Electronics and Communication Engineering</em><br>
     <br>
-    <b>Sept 2022 - May 2025</b><br>
+    <b>Sept 2022 - Apr 2025</b><br>
     <br>
-    <b>Grade:</b> 6.86 CGPA<br>`,
+    <b>Grade:</b> 7.00 CGPA<br>`,
 
     `<strong>V.K.R.& V.N.B.Polytechnic College ,Gudivada </strong><br>
     <br>
-    <em>APSBTET, <br>Electronics and Communication Engineering</em><br>
+    <em> Diploma , <br>Electronics and Communication Engineering</em><br>
     <br>
     <b>Apr 2019 - Apr 2022</b><br>
     <br>
