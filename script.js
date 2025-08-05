@@ -1,7 +1,7 @@
 document.body.style.zoom = "75%";
 document.addEventListener("DOMContentLoaded", function () {
     var typed = new Typed("#typing", {
-        strings: ["Front-End Developer", "UI/UX Designer", "VLSI Design Engineer"],
+        strings: ["Front-End Developer", "UI/UX Designer","Data Analyst"],
         typeSpeed: 100,
         backSpeed: 50,
         backDelay: 1000,
@@ -135,3 +135,4 @@ menu.addEventListener("click", function () {
 closeIcon.addEventListener("click", function () {
     sidebar.classList.remove("open-sidebar");
 });
+
